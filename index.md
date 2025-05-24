@@ -27,3 +27,4 @@ Apart from cricket, I also enjoy playing **badminton** and **table tennis**.
   - **JavaScript** and **Ruby** are useful for web development  
   - **Python** is great for machine learning and artificial intelligence  
   - **C/C++** is often used in game development
+
